@@ -1,6 +1,4 @@
-# Predicting Machines Failure using Machine Learning Classification Models
-
-Predicting Machines Failure using Machine Learning Classification Models
+# Predicting Machine Failure using Machine Learning Classification Models
 
 The goal of this project is to use historical data of machines and their failures to predict whether a machine is likely to fail or not.
 
